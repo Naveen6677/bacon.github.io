@@ -1,0 +1,33 @@
+/*******tag classes*************/
+<style media="screen">
+body
+{
+  background-color: #F9EBC8;
+}
+h1
+{
+  color :balck;
+
+}
+p
+{
+  color :blue;
+}
+
+img:hover{
+  background-color : blue;}
+
+/*************************class selectors**********/
+  .bacon {
+    background-color : red;
+  }
+  .broccoli{
+    background-color : green;
+    border-radius: 100%
+  }
+  /*************************id selectors**********/
+  #heading {
+    color: blue
+  }
+
+  </style>
